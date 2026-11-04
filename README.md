@@ -2,8 +2,6 @@
 
 An ERC-20 token on the Ethereum Sepolia testnet, built for the 42 Tokenizer project. A 2-of-3 multisig wallet owns it, so no single key can mint tokens.
 
-**PONZ has no monetary value.** It exists only on a testnet. The name is a joke: the project takes no deposits, pays no returns, and is not an investment.
-
 ## Deployment
 
 | | |
