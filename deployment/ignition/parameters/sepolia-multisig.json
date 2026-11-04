@@ -1,0 +1,11 @@
+{
+  "Ponzi42MultisigModule": {
+    "tokenAddress": "0x74660A13c625d6d6AAcD9D0DB5FfB3E96afFA8E9",
+    "signers": [
+      "REPLACE_WITH_SIGNER_1_ADDRESS",
+      "REPLACE_WITH_SIGNER_2_ADDRESS",
+      "REPLACE_WITH_SIGNER_3_ADDRESS"
+    ],
+    "requiredConfirmations": 2
+  }
+}
